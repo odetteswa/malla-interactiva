@@ -1,1 +1,1 @@
-# malla-interactiva
+# Malla curricular Interactiva - Ingeniería Industrial
