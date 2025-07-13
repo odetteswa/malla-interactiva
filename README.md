@@ -1,8 +1,5 @@
 # Malla Curricular 2025‑1 – Ingeniería Industrial (ULima)
 
-```mermaid
-graph TD
-
 %% Nivel 4
 CO4[Costeo de Operaciones]
 FP4[Fundamentos de Programación]
